@@ -1,10 +1,23 @@
-header{text-align: center;
+h1{font-family: 'Rubik Doodle Shadow', system-ui;
+    text-align: center;
     color: aquamarine;
     font-size: 100px}
 
-    aside{align-items: right
-        ;}
+  
 
-        img {width: 700px;}
-        main{display: flex;}
-        
+img {width: 700px;
+    margin:auto;}
+
+.welcome-text{
+    text-align: center;
+}
+
+p1{ font-family: 'Patrick Hand', cursive;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+body{
+    background-color: mintcream;
+}
