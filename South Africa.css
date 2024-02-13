@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Rubik Doodle Shadow', system-ui;
+    text-align: center;
+    color: rgb(12, 2, 103);
+    font-size: 100px}
+
+
+h2{font-family: 'Rubik Doodle Shadow', system-ui;
+    text-align: center;
+    color: rgb(63, 24, 189);
+    font-size: 75px
+    }
+
+div{font-family: 'Rubik Doodle Shadow', system-ui;
+    text-align: center;
+    color: rgb(63, 24, 189);
+    font-size: 75px}
+
+    img {
+        width: 500px;
+            width: 1000px;
+            margin: auto;
+        align-items: center;
+
+    }
