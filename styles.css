@@ -1,21 +1,23 @@
 h1 {
-    font-family: 'Rubik Doodle Shadow', system-ui;
+    background-size: cover;
     text-align: center;
+    padding: 70px;
     color: rgb(12, 2, 103);
-    font-size: 100px
+    font-size: 70px
 }
-
-
 
 img {
     width: 1000px;
     margin: auto;
+    z-index: -1;
+    min-height: 571px;
+    max-height: 571px;
 }
 
 .welcome-text {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size:x-large
+    font-size: x-large
 }
 
 p1 {
@@ -27,4 +29,24 @@ p1 {
 
 body {
     background-color: rgb(245, 246, 240);
+}
+
+#map {
+    position: relative;
+}
+
+#map-image {
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
+
+#southafrica {
+    position: absolute;
+    /* border-style: solid; */
+    width: 100px;
+    height: 100px;
+    top: 380px;
+    left: 47%;
 }
