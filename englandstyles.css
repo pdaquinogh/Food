@@ -3,13 +3,23 @@ body {
 }
 h1 {
     text-align: center;
-    color: rgb(12, 2, 103);
-    font-size: 100px
+    color: white;
+    font-weight: 2000;
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+h1 {
+    background-image: url('https://th.bing.com/th/id/OIP.QrXDtMBGaVgvCtjvXjnjswHaCv?rs=1&pid=ImgDetMain'); 
+    background-size: cover; 
+    text-align: center; 
+    padding: 70px; 
+}
+
 h2 {
     text-align: center;
     color: rgb(12, 2, 103);
-    font-size: 50px
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 img {
     width: 500px;
@@ -38,4 +48,10 @@ img {
 }
 .back-to-home:hover {
     background-color: #ffffff;
+}
+
+.link{
+    text-align: center;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
