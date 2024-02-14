@@ -68,3 +68,12 @@ body {
     top: 90px;
     left: 55%;
 }
+
+#mauritius {
+    position: absolute;
+    /* border-style: solid; */
+    width: 100px;
+    height: 100px;
+    top: 380px;
+    left: 58%;
+}
