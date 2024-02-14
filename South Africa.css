@@ -29,3 +29,16 @@ img {
     align-items: center;
 }
 ul{list-style-position: inside;}
+
+.back-to-home {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ffffff;
+    color: #ff0000;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: default;
+}
+.back-to-home:hover {
+    background-color: #8e9af7;
+}
