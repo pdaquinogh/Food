@@ -1,9 +1,10 @@
 h1 {
+    font-family: 'Rubik Doodle Shadow', system-ui;
     background-size: cover;
     text-align: center;
-    padding: 70px;
+    padding: 50px;
     color: rgb(12, 2, 103);
-    font-size: 70px
+    font-size: 100px
 }
 
 img {
