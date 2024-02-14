@@ -60,3 +60,11 @@ body {
     top: 100px;
     left: 42%;
 }
+#russia {
+    position: absolute;
+    /* border-style: solid; */
+    width: 100px;
+    height: 100px;
+    top: 90px;
+    left: 55%;
+}
