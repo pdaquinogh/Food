@@ -1,0 +1,22 @@
+h1 {
+    font-family: 'Rubik Doodle Shadow', system-ui;
+    text-align: center;
+    color: rgb(255, 111, 0);
+    font-size: 100px
+}
+
+.Pelmeni-text {
+    text-align: center;
+}
+
+p1 {
+    font-family: 'Patrick Hand',cursive;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+body {
+    background-color: rgb(255, 226, 158);
+}
+
